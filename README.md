@@ -2,7 +2,7 @@ Top-level project for the 6LoWPAN Diagnosis Tool.
 To get started directly from the sources:
 
     sudo apt-get install libqt5-dev qt5-qmake cmake make libexpat1-dev tshark libpcap0.8-dev libc6-dev g++ gcc
-    git clone https://github.com/cetic/foren6.git
+    git clone https://github.com/benpicco/foren6.git
     cd foren6
     make run
 
